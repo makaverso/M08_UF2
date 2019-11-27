@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PacDesUF2</string>
+    <string name="b_tablas">Tabla</string>
+    <string name="b_servicios">Servicios</string>
+    <string name="foto">Imagen</string>
+    <string name="servicio">Audio iniciado</string>
+    <string name="servicioFin">Audio detenido</string>
+    <string name="button_start">Iniciar música</string>
+    <string name="button_stop">Detener música</string>
+    <string name="button_back3">Volver</string>
+    <string name="button_crearTabla">Crear Tabla</string>
+    <string name="button_addData">Insertar Datos</string>
+    <string name="button_mostrarTabla">Mostrar Tabla</string>
+    <string name="button_back2">Volver</string>
+    <string name="b_returnMT">Volver</string>
+    <string name="botabla">Borrar tabla</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PacDesUF2</string>
+    <string name="b_tablas">Table</string>
+    <string name="b_servicios">Services</string>
+    <string name="foto">Image</string>
+    <string name="servicio">Audio started</string>
+    <string name="servicioFin">Audio stoped</string>
+    <string name="button_start">Start Music</string>
+    <string name="button_stop">Stop Music</string>
+    <string name="button_back3">Return</string>
+    <string name="button_crearTabla">Create Table</string>
+    <string name="button_addData">Insert Data</string>
+    <string name="button_mostrarTabla">Show Table</string>
+    <string name="button_back2">Return</string>
+    <string name="b_returnMT">Return</string>
+    <string name="botabla">Delete Table</string>
+
+</resources>
